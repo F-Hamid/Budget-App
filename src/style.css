@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #f7f6f2;
+}
+
+/* Input */
+
+.card-title {
+  width: 80vw;
+  font-size: 5rem;
+  text-align: center;
+  margin: 3rem auto;
+  font-family: "Playfair Display SC", serif;
+  background-color: #e2d784;
+  border-radius: 0.5rem;
+  /* box-shadow: 0.5rem 0.5rem 1rem #495371; */
+}
+
+.card {
+  margin: 5rem auto;
+  background-color: #aebcc4;
+  height: 20vh;
+  width: 80vw;
+  box-shadow: 0.5rem 0.5rem 1rem #495371;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.change {
+  width: 46%;
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+}
+.amount {
+  width: 46%;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+.no-border {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.btn {
+  width: 10rem;
+  background-color: #03506f;
+
+  margin-bottom: 1rem;
+  border: none;
+  box-shadow: 0.1rem 0.2rem 0.5rem #3b454e;
+}
+
+/* .btn-remove {
+  background-color: #e45826;
+} */
+.label {
+  color: #5b5b5b;
+  font-size: 1.2rem;
+  margin-left: 0.1rem;
+  font-weight: 500;
+}
+
+/* List */
+.item-card {
+  color: #ddd;
+  width: 60vw;
+  height: auto;
+  padding: 3rem;
+  background-color: #062c30;
+}
+
+.price {
+  background-color: #e2d784;
+  text-shadow: 0.1rem 0.1rem 0.5rem #5b5b5b;
+  font-weight: 700;
+  width: 6rem;
+}
+
+.charge {
+  text-shadow: 0.1rem 0.1rem 0.5rem #5b5b5b;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 25rem;
+  background-color: #ddd;
+}
+
+.delete {
+  color: #e45826;
+  height: 2.3rem;
+  background-color: #5b5b5b;
+  width: 3rem;
+  box-shadow: 0.2rem 0.2rem 0.5rem #5b5b5b;
+  cursor: pointer;
+  border-radius: 0.3rem;
+}
+.edit {
+  color: #e2d784;
+  background-color: #03506f;
+  margin-right: 0.11rem;
+}
+
+.fa-solid {
+  font-size: 1.3rem;
+}
+/* Paid Item */
+
+.paid {
+  width: 60vw;
+  height: auto;
+  padding: 3rem;
+  background-color: #05595b;
+  color: #ddd;
+}
+
+.list-title {
+  font-family: "Fredoka", sans-serif;
+  margin: 3rem auto;
+  font-family: "Playfair Display SC", serif;
+}
