@@ -2,7 +2,7 @@ import React from "react";
 
 function PaidItem({ paidData, removePidItem, removePaidList }) {
   let total = 0;
-  console.log(paidData);
+
   const paidRender = () => {
     return paidData.map(({ item, price, id }) => {
       total += Number(price);

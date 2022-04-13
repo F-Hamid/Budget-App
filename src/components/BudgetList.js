@@ -1,5 +1,4 @@
 import React from "react";
-import PaidItem from "./PaidItem";
 
 function BudgetList({ data, removeList, removeItem, onPaid }) {
   //
