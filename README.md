@@ -4,15 +4,13 @@ A styled and responsive web App for managing and keeping truck of your budget.
 
 Using :
 
-# _HTML_
+# _HTML_ : construction
 
-# _CSS : Bootstrap,Fontawsome..._
+# _CSS : Bootstrap,Fontawsome..._ : styling
 
-# _JavaScript_
+# _JavaScript_ : fonctionalities
 
-# _React_
-
-# _uuidv4_
+# _React_ : Creating components and managing the state.
 
 ## _Deployment:_
 
