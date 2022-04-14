@@ -1,4 +1,4 @@
-## Dentist Website : F-Hamid
+## Budget App : F-Hamid
 
 A styled and responsive web App for managing and keeping truck of your budget.
 
